@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+F:\project\Mitchell-Hibernate-Jaxb\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3029619247.index
+3172396179.index
+2318911692.index
+1923354359.index
+3751091582.index
